@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=high%20skyy&fontSize=90" />
 <div align="center">
 
-### ⚡ I believe programming is a powerful tool for solutions and creation of new values ⚡ 
+### ⚡ I believe programming is a powerful tool for problem solving and creating value ⚡ 
 
 ### 👯 I am currently a senior in KU University 👯
 
