@@ -3,6 +3,7 @@
 
 ### ⚡ I became a developer to solve problems ⚡ 
 
+### 👯 I am currently a Senior in KU University 👯
 
 ### 🔭 Techs that I've used at least once🔭
 
