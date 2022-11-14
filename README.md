@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=high%20skyy&fontSize=90" />
 <div align="center">
 
-### ⚡ I became a developer to solve problems ⚡ 
+### ⚡ I believe programming is a powerful tool for solutions and creation of new values ⚡ 
 
 ### 👯 I am currently a senior in KU University 👯
 
-### 🔭 Techs that I've used at least once🔭
+### 🔭 Techs that I have used at least once🔭
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
