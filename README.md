@@ -23,7 +23,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=high-skyy)](https://github.com/high-skyy/github-readme-stats)
 </center>
 
-### 😄 My recent projects and research
+### 😄 Projects and Research
 #### OS Term Project
 #### DB Term Project
 #### Personal research
