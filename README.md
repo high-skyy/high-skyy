@@ -18,7 +18,12 @@
 <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-
+  
+### 😄 My recent projects and research
+- OS Term Project
+- DB Term Project
+- Personal research
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=high-skyy)](https://github.com/high-skyy/github-readme-stats)
 </center>
 
