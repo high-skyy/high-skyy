@@ -26,7 +26,7 @@
 ### 😄 Projects and Research
 #### OS Term Project
 #### DB Term Project
-#### Personal research
+#### Personal research (Currently working on)
 
 <!--
 **high-skyy/high-skyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
